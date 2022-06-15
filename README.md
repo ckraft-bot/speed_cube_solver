@@ -1,0 +1,2 @@
+# SpeedCubeSolver
+Intent: Recently my brother and I talked about computer vision which inspired me to try more computer vision projects.  Previously, I created motion and face detection for a bigger home security system project.  My high school math mentioned I should program some sort of simulator to solve the Rubik's cube. I can solve the cube much faster than I can program a machine to solve the cube.  Now that my coding is a little more advanced, I'd like to take on this challenge. I think OpenCV should be sufficient for this task.
