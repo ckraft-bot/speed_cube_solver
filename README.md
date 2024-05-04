@@ -29,19 +29,16 @@ The notations of the classic Rubik's Cube are:
         D = down            D' = down prime
         L = left            L' = left prime
         R = right           R' = right prime
-        
         M = middle (turns like L)       M' = middle prime
         E = equator (turns like D)      E' = equator prime
         S = standing (turns like F)     S' = standing prime
-    
     Whole cube:
         imagine your cube on a 3D plane
         X = the whole cube moves like R
         Y = the whole cube moves like U
         Z = the whole cube moves like F
         
-    
-    Rules on turns:  
+Rules on turns:  
     The apostrophe denotes the surfaces of the cube turns in counter clockwise direction, otherwise assume clockwise turns.
     Also all turns are 90 degreee turns unless specified otherwise.
     2 before or after a notation means two rotations (180 degreee turns)--R2 = two right turns, RW2 - two wide right turns
