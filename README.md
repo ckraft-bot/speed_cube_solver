@@ -22,27 +22,29 @@ Featured in The Simpsons, The Big Bang Theory, a Spice Girls music video, and ma
 (source: https://rubiks.com/)
 
 The notations of the classic Rubik's Cube are:
-    Slices:
-        F = front           F' = front prime
-        B = back            B' = back prime
-        U = upper           U' = upper prime
-        D = down            D' = down prime
-        L = left            L' = left prime
-        R = right           R' = right prime
-        M = middle (turns like L)       M' = middle prime
-        E = equator (turns like D)      E' = equator prime
-        S = standing (turns like F)     S' = standing prime
-    Whole cube:
-        imagine your cube on a 3D plane
-        X = the whole cube moves like R
-        Y = the whole cube moves like U
-        Z = the whole cube moves like F
+
+        Slices:
+            F = front           F' = front prime
+            B = back            B' = back prime
+            U = upper           U' = upper prime
+            D = down            D' = down prime
+            L = left            L' = left prime
+            R = right           R' = right prime
+            M = middle (turns like L)       M' = middle prime
+            E = equator (turns like D)      E' = equator prime
+            S = standing (turns like F)     S' = standing prime
+            
+        Whole cube:
+            imagine your cube on a 3D plane
+            X = the whole cube moves like R
+            Y = the whole cube moves like U
+            Z = the whole cube moves like F
         
 Rules on turns:  
-    The apostrophe denotes the surfaces of the cube turns in counter clockwise direction, otherwise assume clockwise turns.
-    Also all turns are 90 degreee turns unless specified otherwise.
-    2 before or after a notation means two rotations (180 degreee turns)--R2 = two right turns, RW2 - two wide right turns
-    W after a notation means wide moves--RW = the two most outer right slices are turned 90 degrees together
+The apostrophe denotes the surfaces of the cube turns in counter clockwise direction, otherwise assume clockwise turns.
+Also all turns are 90 degreee turns unless specified otherwise.
+2 before or after a notation means two rotations (180 degreee turns)--R2 = two right turns, RW2 - two wide right turns
+W after a notation means wide moves--RW = the two most outer right slices are turned 90 degrees together
 
 About the Kociemba Alg/ Two-Phase Alg:
 The process divides the whole entity into smaller groupings thus constraining possibilities.
